@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @CHrisTheDragon
 - 👋 Olá, Eu sou @ChrisTheDragon
 
-- Aprendendo Phyton ^_^
+- Aprendendo Phyton e C ^_^
 - Estudante de Ciência da Computação 
 _ Só sei fazer "Hellow Word" ¯\_(ツ)_/¯
 

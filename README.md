@@ -1,7 +1,10 @@
 <h1 align="center">~ 👋 ʜɪ, ɪ’ᴍ ᴄʜʀɪꜱᴛɪᴀɴ ᴍᴀʀɪɴʜᴏ 😊 ~</h1>
 <h3 align="center">~ 👋 𝗢𝗹á, 𝗲𝘂 𝘀𝗼𝘂 𝗖𝗵𝗿𝗶𝘀𝘁𝗶𝗮𝗻 𝗠𝗮𝗿𝗶𝗻𝗵𝗼 😊 ~</h3>
 
-<p align="center"><a href="https://www.instagram.com/christiandejesus23" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=black"/></a>
+<p align="center"><a href="https://www.instagram.com/christiandejesus23" target="_blank"><img src="https://img.shields.io/badge/@christiandejesus23-E4405F?style=for-the-badge&logo=instagram&logoColor=black"/></a>
+<a href="mailto:chiristiandejesus23@gmail.com"><img src="https://img.shields.io/badge/chiristiandejesus23@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href=""https://www.linkedin.com/in/christian-marinho-9b27a7178/><img src ="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+
 
 <div align="right">
 <img src="https://media.tenor.com/S_D9CVgOAv4AAAAC/konosuba-kazuma.gif" height="100" width="200" align="right">
